@@ -1,0 +1,4 @@
+Host best-linux.cs.wisc.edu
+  HostName best-linux.cs.wisc.edu
+  User low
+  ForwardAgent yes

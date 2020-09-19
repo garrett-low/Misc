@@ -1,0 +1,53 @@
+{
+  "window.zoomLevel": -1,
+  "window.menuBarVisibility": "toggle",
+  "editor.rulers": [120],
+  "editor.fontFamily": "'Fira Code',Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": false,
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "editor.suggestSelection": "first",
+  //"editor.autoClosingBrackets": "languageDefined",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.iconTheme": "vscode-icons",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  
+  // extensions settings
+  "extensions.autoUpdate": false,
+  "git.autofetch": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "sync.gist": "639c98cb50109af6503147fe015f5270",
+  "todo-tree.highlights.enabled": true,
+  "todo-tree.tree.showScanModeButton": false,
+  "materialTheme.fixIconsRunning": false,
+  
+  // language-specific
+  "C_Cpp.updateChannel": "Insiders",
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.dimInactiveRegions": false,
+  "C_Cpp.default.compilerPath": "C:\\mingw\\mingw64\\bin",
+  "C_Cpp.clang_format_fallbackStyle": "{ ColumnLimit: 120 }",
+  "java.semanticHighlighting.enabled": true,
+  
+  // remote settings
+  "remote.SSH.showLoginTerminal": true,
+  "remote.SSH.lockfilesInTmp": true,
+  "remote.SSH.allowLocalServerDownload": false,
+  "remote.SSH.remotePlatform": {
+    "best-linux.cs.wisc.edu": "linux"
+  }
+}
